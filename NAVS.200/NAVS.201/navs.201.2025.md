@@ -75,7 +75,6 @@ No extended ASCII or special characters are permitted.
 | USD 100              | `USD.1BA`      | USD 100 banknote, first generation, usability unspecified. |
 | USD 100,000          | `USD.1EA`      | USD 100,000 banknote, first generation. |
 | EUR 15 (special)     | `EUR.1-2A`     | EUR 15 banknote, second digit `5` (special numeric case), first generation. |
-| RUB 1,000,000        | `RUB.1FA1`     | Russian ruble 1,000,000 banknote, sixth generation, pristine/new condition (usability `1`). |
 
 ---
 
