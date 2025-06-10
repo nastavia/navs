@@ -15,3 +15,5 @@ The **NAVS.121** standard establishes a controlled vocabulary to be used across 
 
 **Regulatory-Aware AI** – Alias for the voluntary standard outlining the technical, legal, and institutional framework necessary to operationalize ethical AI principles.
 
+**e-cid** – Alias for the voluntary standard outlining the technical, legal, and institutional framework for the secure and extended Citizen ID principles.
+
