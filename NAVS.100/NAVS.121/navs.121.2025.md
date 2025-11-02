@@ -13,7 +13,7 @@ The **NAVS.121** standard establishes a controlled vocabulary to be used across 
 
 **RegTech++** and **RegTechPlusPlus** – Aliases for the voluntary standard representing the next generation of Regulatory Technology (RegTech), characterized by the integration of Regulation/Policy-as-Code principles and AI/ML-based instrumentation.
 
-**Regulatory-Aware AI** – Alias for the voluntary standard outlining the technical, legal, and institutional framework necessary to operationalize ethical AI principles.
+**Regulatory-Adherent AI** – Alias for the voluntary standard outlining the technical, legal, and institutional framework necessary to operationalize ethical AI principles.
 
 **e-cid** – Alias for the voluntary standard outlining the technical, legal, and institutional framework for the secure and extended Citizen ID principles.
 
