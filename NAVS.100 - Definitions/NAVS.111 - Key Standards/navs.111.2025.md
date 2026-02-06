@@ -1,10 +1,10 @@
-# NAVS-121.2025 Vocabulary for Nastavia Voluntary Standards
+# NAVS.111.2025 Vocabulary for Nastavia Voluntary Standards
 
 **Developed by Nastavia** (www.nastavia.com)
 
 ## 1\. Purpose
 
-The **NAVS.121** standard establishes a controlled vocabulary to be used across NAVS standards and implementation systems.
+The **NAVS.111** standard establishes a controlled vocabulary to be used across NAVS standards and implementation systems.
 
 
 
