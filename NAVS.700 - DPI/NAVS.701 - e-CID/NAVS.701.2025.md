@@ -1,19 +1,19 @@
-# NAVS-701: Voluntary Standard for Electronic Citizen Identifier (e-CID)
+# NAVS.701: Voluntary Standard for Electronic Citizen Identifier (e-CID)
 **Developed by Nastavia** (www.nastavia.com)
 
 ---
 
 ## 1. Purpose
 
-The **NAVS-701** standard defines a voluntary, interoperable approach for implementing an **Electronic Citizen Identifier (e-CID)** as a non-secret digital reference to a natural person.
+The **NAVS.701** standard defines a voluntary, interoperable approach for implementing an **Electronic Citizen Identifier (e-CID)** as a non-secret digital reference to a natural person.
 
-The purpose of this standard is to enable **safe, consistent, and privacy-preserving identification** across digital public and private services by clearly separating **identification** from **authentication, authorization, and consent mechanisms**. NAVS-701 is designed to reduce systemic identity risks, support Digital Public Infrastructure (DPI), and improve citizen control over personal data usage.
+The purpose of this standard is to enable **safe, consistent, and privacy-preserving identification** across digital public and private services by clearly separating **identification** from **authentication, authorization, and consent mechanisms**. NAVS.701 is designed to reduce systemic identity risks, support Digital Public Infrastructure (DPI), and improve citizen control over personal data usage.
 
 ---
 
 ## 2. Scope
 
-NAVS-701 applies to:
+NAVS.701 applies to:
 
 - Government information systems and registries
 - Digital public service platforms
@@ -40,7 +40,7 @@ Its sole purpose is to provide a **reliable reference key** for associating reco
 
 ## 4. Separation of Identification and Security Functions
 
-NAVS-701 establishes a strict separation between:
+NAVS.701 establishes a strict separation between:
 
 - **Identification** — referencing a person using e-CID
 - **Authentication** — verifying the person’s presence or intent
@@ -78,7 +78,7 @@ Because the e-CID carries **no intrinsic security value**, its exposure does not
 - unauthorized access,
 - or direct misuse of personal data.
 
-By decoupling identity reference from security controls, NAVS-701 significantly reduces risks commonly associated with static identifiers and supports more resilient digital service ecosystems.
+By decoupling identity reference from security controls, NAVS.701 significantly reduces risks commonly associated with static identifiers and supports more resilient digital service ecosystems.
 
 ---
 
@@ -107,7 +107,7 @@ Typical use cases of e-CID include:
 
 ## 9. Voluntary Adoption and Evolution
 
-NAVS-701 is defined as a **voluntary standard**. Organizations may:
+NAVS.701 is defined as a **voluntary standard**. Organizations may:
 
 - adopt it incrementally,
 - integrate it with existing identity and trust frameworks,
@@ -121,4 +121,4 @@ The standard is designed to remain technology-agnostic and adaptable to legal, i
 
 This standard is provided as a voluntary guideline developed by **Nastavia** to promote interoperability, security, and user-centric digital identity practices.
 
-Organizations adopting NAVS-701 are responsible for ensuring alignment with applicable legislation, regulatory requirements, and internal governance policies.
+Organizations adopting NAVS.701 are responsible for ensuring alignment with applicable legislation, regulatory requirements, and internal governance policies.
