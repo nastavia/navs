@@ -1,5 +1,6 @@
 # NAVS-421: Enhanced Citizen ID (e-CID)  
-**Voluntary Standard Developed by Nastavia** (www.nastavia.com)
+  
+**Voluntary Standard by Nastavia** (www.nastavia.com)
 ---
 ### Purpose
 
