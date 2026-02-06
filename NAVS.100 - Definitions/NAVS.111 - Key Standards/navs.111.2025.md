@@ -16,7 +16,7 @@ The **NAVS.121** standard establishes a controlled vocabulary to be used across 
 
 **Regulation-aligned AI** – Alias for the voluntary standard outlining the technical, legal, and institutional framework necessary to operationalize ethical AI principles.
 
-**e-cid** – Alias for the voluntary standard outlining the technical, legal, and institutional framework for the secure and extended Citizen ID principles.
+**e-cid [(NAVS.701)](https://github.com/nastavia/navs/blob/main/NAVS.700%20-%20DPI/NAVS.701%20-%20e-CID/NAVS.701.2025.md)** – Voluntary standard outlining the technical, legal, and institutional framework for the secure and extended Citizen ID principles.
 
 **Triggered Disinformation Vector (aka TDV, aka "Magnet Mine")** - Controlled term used in the volunary standard outlining the technical, legal and institutional framework to avoid a latent behavioral mechanism within an AI system that activates only under narrowly specific conditions
 
