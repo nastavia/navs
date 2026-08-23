@@ -14,9 +14,11 @@ The **NAVS.111** standard establishes a controlled vocabulary to be used across 
 
 **RegTech++** and **RegTechPlusPlus** – Aliases for the voluntary standard representing the next generation of Regulatory Technology (RegTech), characterized by the integration of Regulation/Policy-as-Code principles and AI/ML-based instrumentation.
 
-**Regulation-aligned AI** – Alias for the voluntary standard outlining the technical, legal, and institutional framework necessary to operationalize ethical AI principles.
+**Regulation-aligned AI (RAAI) [(NAVS-421)](https://github.com/nastavia/navs/blob/main/NAVS.400%20-%20Digital/NAVS.421%20-%20RAAI/navs.421.2025.md)** – Voluntary standard outlining the technical, legal, and institutional framework necessary to operationalize ethical AI principles.
 
-**e-cid [(NAVS.701)](https://github.com/nastavia/navs/blob/main/NAVS.700%20-%20DPI/NAVS.701%20-%20e-CID/NAVS.701.2025.md)** – Voluntary standard outlining the technical, legal, and institutional framework for the secure and extended Citizen ID principles.
+**e-cid [(NAVS-701)](https://github.com/nastavia/navs/blob/main/NAVS.700%20-%20DPI/NAVS.701%20-%20e-CID/NAVS.701.2025.md)** – Voluntary standard outlining the technical, legal, and institutional framework for the secure and extended Citizen ID principles.
 
-**Triggered Disinformation Vector (aka TDV, aka "Magnet Mine")** - Controlled term used in the volunary standard outlining the technical, legal and institutional framework to avoid a latent behavioral mechanism within an AI system that activates only under narrowly specific conditions
+**Nastavia Marchine-readable Architecture (NaviMArc)** – Voluntary standard defining the technical standard for machine-readable architecture definition and spec-driven development.
+
+**Triggered Disinformation Vector (aka TDV, aka "Magnet Mine")** - Controlled term used in the voluntary standard outlining the technical, legal and institutional framework to avoid a latent behavioral mechanism within an AI system that activates only under narrowly specific conditions
 
