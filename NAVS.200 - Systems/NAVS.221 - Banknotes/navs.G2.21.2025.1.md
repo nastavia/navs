@@ -1,4 +1,4 @@
-# NAVS.G2.21: CCompact Cash Denomination Code
+# NAVS.G2.21: Compact Cash Denomination Code
 
 **Voluntary Standard for Fixed-Length Operational Representation of Banknote and Coin Denominations**
 **Developed and maintained by Nastavia** — https://www.nastavia.com
