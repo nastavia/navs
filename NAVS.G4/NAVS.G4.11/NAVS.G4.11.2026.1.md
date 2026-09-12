@@ -18,9 +18,9 @@
 | **Supersedes** | None |
 | **Related NAVS** | None |
 
-This document is part of the **Nastavia Voluntary Standards (NAVS)** system and is developed and maintained by **Nastavia**. It provides a voluntary reference framework for extending the use of nationally issued Unique Identification Numbers (UINs) through explicit separation of identification from security functions, privacy controls, issuer-governed user management, issuer-defined service credentials, and global interoperability.
+> This document is part of the **Nastavia Voluntary Standards (NAVS)** system and is developed and maintained by **Nastavia**. It provides a voluntary reference framework for extending the use of nationally issued Unique Identification Numbers (UINs) through explicit separation of identification from security functions, privacy controls, issuer-governed user management, issuer-defined service credentials, and global interoperability.
 
-Adoption of this standard is voluntary unless required by an applicable policy, contract, regulation, or other governing instrument. Conformance with this standard does not, by itself, constitute certification, legal compliance, or regulatory approval.
+> Adoption of this standard is voluntary unless required by an applicable policy, contract, regulation, or other governing instrument. Conformance with this standard does not, by itself, constitute certification, legal compliance, or regulatory approval.
 
 ---
 
