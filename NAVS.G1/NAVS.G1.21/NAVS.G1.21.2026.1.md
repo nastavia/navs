@@ -9,11 +9,11 @@
 | **Name**                   | Digital Systems Lifecycle (DSLC)                     |
 | **Formal Title / Subject** | Controlled Term for Digital Systems Lifecycle (DSLC) |
 | **Group**                  | NAVS.G1 — Terminology and Semantic Foundations       |
-| **Version**                | v0.1                                                 |
-| **Status**                 | Draft                                                |
+| **Version**                | 2026.1                                                 |
+| **Status**                 | Active                                                |
 | **Publication Date**       | 2026-09-25                                           |
 | **Developer / Maintainer** | Nastavia                                             |
-| **Canonical Reference**    | [TBD]                                                |
+| **Canonical Reference**    | NAVS.G1.21                                                |
 | **Supersedes**             | None                                                 |
 | **Related NAVS**           | None designated                                      |
 
@@ -80,7 +80,7 @@ For the purposes of this document, a **Digital System** is a system whose intend
 
 ### 4.2 Digital Systems Lifecycle
 
-**Digital Systems Lifecycle (DSLC)** is the complete sequence through which a digital system progresses from recognition of the originating business need through definition, realization, operation, evolution, and eventual retirement.
+**Digital Systems Lifecycle (DSLC)** is the complete sequence through which a digital system progresses from recognition of the originating business need through scoping, definition, realization, operation, evolution, and eventual retirement.
 
 DSLC is not limited to software development.
 
@@ -90,51 +90,57 @@ DSLC is not limited to software development.
 
 The canonical DSLC sequence is:
 
-**Business Need → Requirements → Realization Strategy → Design / Selection → Contracting → Delivery and Supervision → Acceptance → Operation → Evolution → Retirement**
+**Business Need → Scoping → Requirements → Realization Strategy → Design / Selection → Contracting → Delivery and Supervision → Acceptance → Operation → Evolution → Retirement**
 
 ### 5.1 Business Need
 
 Recognition and articulation of the organizational, operational, regulatory, strategic, or other need that may require a digital-system response.
 
-### 5.2 Requirements
+### 5.2 Scoping
 
-Definition of the needs, capabilities, constraints, qualities, and conditions that the intended digital system is expected to satisfy.
+Definition of the boundaries, stakeholders, processes, capabilities, interfaces, assumptions, constraints, and exclusions relevant to the intended digital-system initiative.
 
-### 5.3 Realization Strategy
+Scoping establishes the context within which requirements are subsequently defined.
+
+### 5.3 Requirements
+
+Definition of the needs, capabilities, constraints, qualities, and conditions that the intended digital system is expected to satisfy within the established scope.
+
+### 5.4 Realization Strategy
 
 Determination of the general approach by which the required capability will be realized.
 
 This may include, for example, development, acquisition, configuration, integration, reuse, outsourcing, or a combination of approaches.
 
-### 5.4 Design / Selection
+### 5.5 Design / Selection
 
 Definition of the solution design or selection of an existing product, platform, service, or other solution capable of satisfying the established requirements and realization strategy.
 
-### 5.5 Contracting
+### 5.6 Contracting
 
 Establishment of the contractual or equivalent formal arrangements required for acquisition, development, delivery, licensing, implementation, support, or other relevant aspects of realization.
 
-### 5.6 Delivery and Supervision
+### 5.7 Delivery and Supervision
 
 Execution of the activities through which the intended digital system is developed, configured, integrated, implemented, deployed, or otherwise realized, together with supervision of that realization against applicable requirements, design or selection decisions, contractual arrangements, quality expectations, and agreed delivery conditions.
 
 Supervision may include review, monitoring, verification, coordination, issue resolution, and other oversight activities necessary to maintain alignment between the intended and delivered system.
 
-### 5.7 Acceptance
+### 5.8 Acceptance
 
 Determination that the delivered digital system satisfies the applicable acceptance conditions and is suitable for transition into operational use.
 
-### 5.8 Operation
+### 5.9 Operation
 
 Use and support of the accepted digital system in its intended operational environment.
 
-### 5.9 Evolution
+### 5.10 Evolution
 
 Controlled modification, enhancement, adaptation, modernization, or other material change to the digital system during its operational life.
 
-Evolution may initiate additional requirements, realization, delivery and supervision, and acceptance activities without necessarily constituting creation of an entirely new system.
+Evolution may initiate additional scoping, requirements, realization, delivery and supervision, and acceptance activities without necessarily constituting creation of an entirely new system.
 
-### 5.10 Retirement
+### 5.11 Retirement
 
 Controlled termination of the digital system's operational use, including decommissioning, replacement, archival, migration, disposal, or other appropriate end-of-life treatment.
 

@@ -9,7 +9,7 @@
 | **Name**                   | Compact Cash Denomination Code |
 | **Group**                  | NAVS.G2 — Operational Standards          |
 | **Version**                | 2026.1                                    |
-| **Status**                 | Draft                                    |
+| **Status**                 | Active                                    |
 | **Publication Date**       | 2026-09-11                                    |
 | **Canonical Reference**    | NAVS.G2.21                                    |
 | **Supersedes**             | 2025.1                                  |
