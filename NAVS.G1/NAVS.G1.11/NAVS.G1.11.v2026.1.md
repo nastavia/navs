@@ -1,6 +1,18 @@
-# NAVS.111.2025 Vocabulary for Nastavia Voluntary Standards
+# NAVS.G1.11: Vocabulary for Nastavia Voluntary Standards
 
 **Developed by Nastavia** (www.nastavia.com)
+
+| Attribute                  | Value                                    |
+| :------------------------- | :--------------------------------------- |
+| **ID**                     | NAVS.G2.11                               |
+| **Name**                   | Vocabulary for Nastavia Voluntary Standards |
+| **Group**                  | NAVS.G1 — Terminology and Semantic Foundations|
+| **Version**                | 2026.1                                    |
+| **Status**                 | Active                                    |
+| **Publication Date**       | 2026-11-11                                    |
+| **Canonical Reference**    | NAVS.G1.11                                    |
+| **Supersedes**             | 2025.2                                  |
+
 
 ## 1\. Purpose
 
@@ -14,13 +26,17 @@ The **NAVS.111** standard establishes a controlled vocabulary to be used across 
 
 **RegTech++** and **RegTechPlusPlus** – Aliases for the voluntary standard representing the next generation of Regulatory Technology (RegTech), characterized by the integration of Regulation/Policy-as-Code principles and AI/ML-based instrumentation.
 
-**Regulation-aligned AI (RAAI) [(NAVS-421)](https://github.com/nastavia/navs/blob/main/NAVS.400%20-%20Digital/NAVS.421%20-%20RAAI/navs.421.2025.md)** – Voluntary standard outlining the technical, legal, and institutional framework necessary to operationalize ethical AI principles.
+**Regulation-aligned AI (RAAI)** – Voluntary standard outlining the technical, legal, and institutional framework necessary to operationalize ethical AI principles.
 
-**e-cid [(NAVS-701)](https://github.com/nastavia/navs/blob/main/NAVS.700%20-%20DPI/NAVS.701%20-%20e-CID/NAVS.701.2025.md)** – Voluntary standard outlining the technical, legal, and institutional framework for the secure and extended Citizen ID principles.
+**x-UIN** – Voluntary standard outlining the technical, legal, and institutional framework for the secure and extended Citizen ID principles.
 
 **Nastavia Marchine-Actionable Architecture (NaviMArc)** – Voluntary standard defining the technical standard for architecture definition for machine based processing and spec-driven development.
 
-**Nastavia Data Governance Framework (NGDF)** - Voluntary standard defining the Data Governance maturity assessment and transformation toward a governed environment supporting the best available decisions 
+**Digital Systems LifeCycle (DSLC)** – Controlled term used to distinguish broader Digital Systems related lifecycles from the regular Software Development LifeCycle (SDLC) model.
+
+**Nastavia Data Governance Framework (NGDF)** - Voluntary standard defining the Data Governance best practices through various sectors.  
+
+**Data Governance Assessment Framework (DGAF)** - Multi-sector, multidimensional voluntary standard defining the Data Governance maturity assessment and transformation toward a governed environment supporting the best available decisions  
 
 **Triggered Disinformation Vector (aka TDV, aka "Magnet Mine")** - Controlled term used in the voluntary standard outlining the technical, legal and institutional framework to avoid a latent behavioral mechanism within an AI system that activates only under narrowly specific conditions
 
@@ -34,7 +50,7 @@ The **NAVS.111** standard establishes a controlled vocabulary to be used across 
 | **NAVS.G7.xx** | NSG7 | **Governance and Assurance Standards**| Governance systems, accountability, controls, assessment, conformity, traceability, oversight|
 
 
-| e-CID | [NAVS.701](https://github.com/nastavia/navs/blob/main/NAVS.700%20-%20DPI/NAVS.701%20-%20e-CID/NAVS.701.2025.md) | 2025.1  | Voluntary standard outlining the technical, legal, and institutional framework for the secure and extended Citizen ID principles. 
+ 
 
 
 
