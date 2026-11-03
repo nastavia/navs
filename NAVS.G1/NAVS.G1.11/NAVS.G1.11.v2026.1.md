@@ -16,9 +16,9 @@
 
 ## 1\. Purpose
 
-The **NAVS.111** standard establishes a controlled vocabulary to be used across NAVS standards and implementation systems.
+The **NAVS.G1.11** standard establishes a controlled vocabulary to be used across NAVS standards and implementation systems.
 
-## 2\. NAVS Categories
+## 2\. NAVS Groups
 |ID|Reference|Name|Description                                                      |
 | :---: | :---: | :--- | :---- |
 | **NAVS.G1.xx** | NSG1 | **Terminology and Semantic Foundations**| Definitions, glossaries, controlled vocabularies, taxonomies, semantic conventions, ontology principles|
